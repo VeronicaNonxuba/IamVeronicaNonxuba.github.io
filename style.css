@@ -42,6 +42,7 @@ section {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     color: #1A374D;
+    margin-top: 2em;
 }
  section #content {
     background-color: rgba(255, 255, 255, 0.7); /* Set a transparent white background */
@@ -76,6 +77,8 @@ section #image img {
 
 h1, h2 {
     text-align: center;
+    margin: 0 0 2em 0;
+    padding-top: 0;
 }
 
 footer {
