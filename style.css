@@ -81,6 +81,10 @@ h1, h2 {
     padding-top: 0;
 }
 
+#thank-you p{
+    text-align: center;
+}
+
 footer {
     background-color: #4D869C;
     color: #fff;
